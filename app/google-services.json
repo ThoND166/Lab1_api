@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033069226377",
+    "project_id": "apimob-d7570",
+    "storage_bucket": "apimob-d7570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033069226377:android:3903f89af37251e2c5d958",
+        "android_client_info": {
+          "package_name": "com.thondph16247_myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ng_uSWc6viw8gB6BUzaKGUpodqC37Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
